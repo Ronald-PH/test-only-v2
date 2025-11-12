@@ -1,5 +1,5 @@
 {
-    "name": "ronald-ph/test-only",
+    "name": "ronald-ph/test-only-v2",
     "description": "A sample Composer package that contains only composer.json and no PHP code.",
     "version": "1.0.0",
     "type": "metapackage",
